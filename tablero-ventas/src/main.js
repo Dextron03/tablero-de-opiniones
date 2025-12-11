@@ -140,7 +140,7 @@ document.querySelector('#app').innerHTML = `
 
     <!-- Footer -->
     <footer class="dashboard-footer">
-      <p><i class="bi bi-c-circle"></i> 2024 OpinionDW Dashboard | Última actualización: <span id="lastUpdate"></span></p>
+      <p><i class="bi bi-c-circle"></i> 2025 OpinionDW Dashboard | Última actualización: <span id="lastUpdate"></span></p>
       <p>ITLA - Electiva 1: Big Data | Unidad 9: Visualización de Datos</p>
     </footer>
   </div>
